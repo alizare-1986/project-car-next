@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import carsData from "../../data/carsdata";
+import carsData from "../../data/carsData";
 import CarsDetails from "../../components/templates/CarsDetails";
 
 function CarDeatails(props) {

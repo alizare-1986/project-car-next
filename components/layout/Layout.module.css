@@ -11,12 +11,13 @@
   }
   
   .header h2 {
-    font-size: 2.3rem;
+    font-size: 3rem;
     border-bottom: 1px solid black;
     margin-bottom: 10px;
   }
   .header p {
    text-align: center;
+   font-size: 1.5rem;
   }
   
   .footer {
